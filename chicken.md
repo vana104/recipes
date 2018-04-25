@@ -1,5 +1,7 @@
 # **Mediterranean 'chicken ’n’ chips'** *by Jamie Oliver*
 
+![](/Volumes/UserHD/Users/nydc113/Desktop/recipes/ingredients/img/chicken.jpg)
+
 Dairy and gluten free 
 Serves 4, not too tricky, cooks in 1 hour 
 
