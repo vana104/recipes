@@ -4,7 +4,7 @@
 
 > "These cookies are the best of 2 worlds. The sweetness of chocolate with a kick from cayenne."
 
-![Spicy Mexican Hot Chocolate Cookies](/img/Spicy-Mexican-Hot-Chocolate-Cookies.jpg) 
+![Spicy Mexican Hot Chocolate Cookies](img/Spicy-Mexican-Hot-Chocolate-Cookies.jpg) 
 
 
 
