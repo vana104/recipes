@@ -10,4 +10,8 @@
 8. [Spicy Mexican Hot Chocolate Cookies](Spicy-Mexican-Hot-Chocolate-Cookies.md)
 9. [Braaied Watermelon With Mojito Cream](watermelon.md)
 10. [Pumpkin Spice Cupcakes](Pumpkin-Spice-Cupcakes.md)
+11. [Steak](steak.md)
+12. [Dark & Stormy](dark-and-stormy.md)
+13. [Chicken ala king](chickenalaking.md)
+14. [scones](scones.md)
 
