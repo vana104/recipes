@@ -15,4 +15,4 @@
 13. [Chicken ala king](chickenalaking.md)
 14. [scones](scones.md)
 15. [Double Chocolate Mocha Brownie](brownies.md)
-
+16. [Chocolate Pancakes](chocolate-pancakes.md)
