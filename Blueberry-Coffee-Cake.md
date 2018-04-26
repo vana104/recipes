@@ -4,7 +4,7 @@
 
 > "This cake is super for a quick breakfast snack with coffee."
 
-![alt](/Blueberry Coffee Cake/Blueberry-Coffee-Cake.jpg) 
+![Blueberry Coffee Cake](img/Blueberry-Coffee-Cake.jpg) 
 
 
 
