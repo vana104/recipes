@@ -7,4 +7,4 @@
 5. macaroni.md
 6. [Banting Burger](BantingBurger.md)
 7. [Irish Lamb Stew](irish-lamb-stew.md)
-
+8. [Spicy Mexican Hot Chocolate Cookies](Spicy-Mexican-Hot-Chocolate-Cookies.md)
