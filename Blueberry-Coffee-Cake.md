@@ -4,7 +4,7 @@
 
 > "This cake is super for a quick breakfast snack with coffee."
 
-![alt](/Volumes/UserHD/Users/limr063/Desktop/Recipe Git Folder/Richard-Recipe/Recipes/img/Blueberry-Coffee-Cake.jpg) 
+![alt](/Blueberry Coffee Cake/Blueberry-Coffee-Cake.jpg) 
 
 
 
