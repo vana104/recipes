@@ -7,4 +7,5 @@
 5. macaroni.md
 6. [Banting Burger](BantingBurger.md)
 7. [Irish Lamb Stew](irish-lamb-stew.md)
+8. [Chicken ala king](chickenalaking.md)
 
