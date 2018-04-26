@@ -6,4 +6,5 @@
 4. Blueberry-Coffee-Cake.md
 5. macaroni.md
 6. [Banting Burger](BantingBurger.md)
+7. [Irish Lamb Stew](irish-lamb-stew.md)
 
