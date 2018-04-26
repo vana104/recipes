@@ -12,4 +12,5 @@
 10. steak.md
 11. [Dark & Stormy](dark-and-stormy.md)
 12. [Chicken ala king](chickenalaking.md)
+12. [scones](scones.md)
 
