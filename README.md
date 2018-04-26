@@ -12,4 +12,4 @@
 10. steak.md
 11. [Dark & Stormy](dark-and-stormy.md)
 12. [Chicken ala king](chickenalaking.md)
-
+13. [Chocolate Pancakes](chocolate-pancakes.md)
